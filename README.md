@@ -1,5 +1,6 @@
 Previsão de Churn - Projeto Dex 03 Kratos 😎
 
+
 Este repositório apresenta o projeto de previsão de churn desenvolvido em equipe como parte do curso Data Expert Dex03 . Cada membro contribuiu de forma significativa, com destaque especial para o colega Lucas, que liderou a implementação do roteiro e a análise das tabelas.
 
 Como líder e Product Owner , conduzi nosso tempo de cientistas de dados na criação de um modelo preditivo robusto, utilizando Python e seguindo o framework CRISP-DM . O projeto foi gerenciado com a metodologia Ágil Scrum e os resultados foram apresentados de forma clara em um Dashboard interativo no Power BI .
