@@ -18,5 +18,5 @@ Leticia: time dev
 
 
 
-![image](https://github.com/user-attachments/assets/fcea4874-f137-4287-b83d-5e712f8d74aa)
+
 
