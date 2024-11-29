@@ -11,15 +11,20 @@ Como líder de um time de cientistas de dados, onde juntos desenvolvemos um proj
 
 **Membros do time:**
 
-**_
 Polly: Product Owner
+
 Rafael: Scrum master
+
 Danyelle: time dev
+
 Marcelo: time dev
+
 Tamara:time dev
+
 Lucas: time dev
+
 Leticia: time dev
-_**
+
 
 
 
