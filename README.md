@@ -22,6 +22,11 @@ Danyelle, Marcelo, Tamara, Lucas, Letícia (Time Dev) : Desenvolvimento técnico
 Lucas : Especialista na criação dos scripts e estudos das tabelas.
 💡 Este projeto foi uma oportunidade incrível para aprimorar habilidades técnicas, trabalho em equipe e liderança, aplicando ferramentas de ponta e entregando resultados mundo concretos para problemas do real.
 
+BI
+
+![image](https://github.com/user-attachments/assets/6ae8e31d-7f5a-4f14-bef9-e9756f233fac)
+
+
 
 
 
