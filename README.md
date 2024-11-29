@@ -13,15 +13,15 @@ Como líder de um time de cientistas de dados, onde juntos desenvolvemos um proj
 
 Polly: Product Owner
 
-Rafael: Scrum master
+Rafael: Scrum Master
 
-Danyelle: time dev
+Danyelle: Time dev
 
-Marcelo: time dev
+Marcelo: Time dev
 
-Tamara:time dev
+Tamara: Time dev
 
-Lucas: time dev
+Lucas: Time dev
 
 Leticia: time dev
 
