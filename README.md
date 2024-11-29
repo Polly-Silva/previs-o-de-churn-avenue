@@ -1,30 +1,25 @@
-# Previsão de Chrun 
+Previsão de Churn - Projeto Dex 03 Kratos 😎
 
-GRUPO DO DEX 03 KRATOS 😎
+Este repositório apresenta o projeto de previsão de churn desenvolvido em equipe como parte do curso Data Expert Dex03 . Cada membro contribuiu de forma significativa, com destaque especial para o colega Lucas, que liderou a implementação do roteiro e a análise das tabelas.
 
-Projeto feito por todos os membros da equipe do curso de data expert dex03 grupo03, cada mebro da equipe teve sua participação, em especiacial ao colega Lucas que fez a maior parte de todo o script e estudo das tabelas mas cada uma colaborou um pouco.
-Como líder de um time de cientistas de dados, onde juntos desenvolvemos um projeto de previsão de churn em Python adotando o framework CRISP-DM e Scrum, mostrado em um Dashboard no Power BI.
+Como líder e Product Owner , conduzi nosso tempo de cientistas de dados na criação de um modelo preditivo robusto, utilizando Python e seguindo o framework CRISP-DM . O projeto foi gerenciado com a metodologia Ágil Scrum e os resultados foram apresentados de forma clara em um Dashboard interativo no Power BI .
 
-📊 Integração de Dados e desenvolvimento do modelo de previsão, desenvolvimento de pipelines de dados, consumo de APIs externas e automação de processos.
+Principais entregas do projeto
+📊 Integração e modelagem de dados :
 
-🚀 Usamos metodologias modernas : aplicações desenvolvidas seguindo práticas como Scrum e integração contínua para garantir entregas iterativas e de alta qualidade.
+Desenvolvimento de pipelines eficientes para processamento de dados.
+Consumo de APIs externas para enriquecer o conjunto de dados.
+Automação de processos para garantir escalabilidade e precisão.
+🚀 Metodologias e tecnologias avançadas :
 
-**Membros do time:**
-
-Polly: Product Owner
-
-Rafael: Scrum Master
-
-Danyelle: Time dev
-
-Marcelo: Time dev
-
-Tamara: Time dev
-
-Lucas: Time dev
-
-Leticia: time dev
-
+Implementação de práticas ágeis com Scrum para entregas iterativas e colaborativas.
+Utilização de integração contínua para qualidade e consistência.
+Nosso tempo
+Polly (Product Owner) : Líder e responsável por garantir alinhamento estratégico e execução.
+Rafael (Scrum Master) : Facilitador das cerimônias ágeis e gestão do fluxo de trabalho.
+Danyelle, Marcelo, Tamara, Lucas, Letícia (Time Dev) : Desenvolvimento técnico, análise e implementação.
+Lucas : Especialista na criação dos scripts e estudos das tabelas.
+💡 Este projeto foi uma oportunidade incrível para aprimorar habilidades técnicas, trabalho em equipe e liderança, aplicando ferramentas de ponta e entregando resultados mundo concretos para problemas do real.
 
 
 
